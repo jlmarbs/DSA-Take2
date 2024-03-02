@@ -1,0 +1,2 @@
+    pop(&shannen);
+    display(shannen);
